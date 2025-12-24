@@ -24,6 +24,8 @@ I’m currently building and improving projects involving:
 - **AI-centric applications** — Voice-activated tools & intelligent systems
 I turn coffee and music into code. When I’m not coding, I’m probably exploring new things, tweaking my projects, or 
 figuring out why it worked this time 😎
+## Open Source
+[![Contribution Stats](https://readme-contribution-stats.aman-kumar-connect.workers.dev/?type=repos&username=ShrishtiSingh26&limit=16)](https://github.com/amankumarconnect/readme-contribution-stats)
 
 Feel free to explore my projects below! 👇
 
