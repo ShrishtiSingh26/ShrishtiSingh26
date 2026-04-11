@@ -1,4 +1,4 @@
-<img align="center" src="assests\Pixel Jeff.gif" alt="banner">
+<img align="center" src="assests\PixelJeff-ezgif.com-resize.gif"  alt="banner">
 
 <h1 align="center">Hi, I'm Shrishti</h1>
 <h3 align="center">Passionate about Machine Learning, AI & Software Development</h3>
