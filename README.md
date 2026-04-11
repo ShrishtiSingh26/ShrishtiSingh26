@@ -1,3 +1,5 @@
+<img align="center" src="assests\Pixel Jeff.gif" alt="banner">
+
 <h1 align="center">Hi, I'm Shrishti</h1>
 <h3 align="center">Passionate about Machine Learning, AI & Software Development</h3>
 
