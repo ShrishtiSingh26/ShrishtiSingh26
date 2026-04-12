@@ -1,18 +1,10 @@
-<img align="center" src="assests\PixelJeff-ezgif.com-resize.gif"  alt="banner">
+<img align="center" src="assests/PixelJeff-ezgif.com-resize.gif" alt="banner">
 
-<table>
+<table width="100%">
   <tr>
-    <!-- LEFT SIDE: INTRO -->
-    <td width="50%" valign="top">
+<!-- LEFT: SKILLS -->
+  <td width="50%" valign="top">
 
-<h1>Hi, I'm Shrishti</h1>
-<h3>Passionate about Machine Learning, AI & Software Development</h3>
-
-<p>
-Welcome to my GitHub profile! I’m a dedicated developer focused on building meaningful projects in <b>Machine Learning, Artificial Intelligence, and development</b>. I love solving real-world problems using code and continuously expanding my technical skills.
-</p>
-    </td>  <!-- RIGHT SIDE: SKILLS -->
-    <td width="50%" valign="top">
 <table>
   <tr>
     <td><strong>Frontend</strong></td>
@@ -22,7 +14,6 @@ Welcome to my GitHub profile! I’m a dedicated developer focused on building me
       <img src="https://github.com/user-attachments/assets/e887b920-aba8-4107-b4ef-dbeae291256b" width="40"/>
     </td>
   </tr>
-
 
   <tr>
     <td><strong>Backend & APIs</strong></td>
@@ -52,7 +43,15 @@ Welcome to my GitHub profile! I’m a dedicated developer focused on building me
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
     </td>
   </tr>
-  <tr> <td><strong>DevOps & Tools</strong></td> <td> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="git"/></a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/93c4f777-986e-4fb4-b93f-76fed8a28542" width="40" height="40" alt="aws"/></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="docker"/></a> </td> </tr>
+
+  <tr>
+    <td><strong>DevOps & Tools</strong></td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+      <img src="https://github.com/user-attachments/assets/93c4f777-986e-4fb4-b93f-76fed8a28542" width="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+    </td>
+  </tr>
 
   <tr>
     <td><strong>AI/ML</strong></td>
@@ -63,9 +62,36 @@ Welcome to my GitHub profile! I’m a dedicated developer focused on building me
       <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
     </td>
   </tr>
-  <tr> <td><strong>Design Tools</strong></td> <td> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="figma"/></a> <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://freelogopng.com/images/all_img/1656734719canva-logo-transparent.png" width="40" height="40" alt="canva"/></a> </td> </tr>
 
+  <tr>
+    <td><strong>Design Tools</strong></td>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+      <img src="https://freelogopng.com/images/all_img/1656734719canva-logo-transparent.png" width="40"/>
+    </td>
+  </tr>
 </table>
+
+  </td> <!-- RIGHT: INTRO -->
+  <td width="50%" valign="top">
+
+<h1>Hi, I'm Shrishti</h1>
+<h3>Passionate about Machine Learning, AI & Software Development</h3>
+
+<p>
+Welcome to my GitHub profile! I’m a dedicated developer focused on building meaningful projects in <b>Machine Learning, Artificial Intelligence, and development</b>. I love solving real-world problems using code and continuously expanding my technical skills.
+</p>
+
+<p><i>Music keeps me alive, code gives it meaning.</i></p>
+
+</td>
+
+  </tr>
+</table>
+
+<br>
+
+
 
 <table> <tr> <th> <p><img align="center" src="https://readmestats.999857.xyz/api?username=shrishtisingh26&show_icons=true&locale=en&theme=dark" alt="shrishtisingh26"/></p> </th> <th> <p><img align="center" src="https://streak-stats.demolab.com/?user=shrishtisingh26&theme=gotham" alt="shrishtisingh26" /></p> </th> </tr> </table> <br>
 
