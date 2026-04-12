@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I’m a dedicated developer focused on building me
     </td>
   </tr>
 
+
   <tr>
     <td><strong>Backend & APIs</strong></td>
     <td>
@@ -51,6 +52,7 @@ Welcome to my GitHub profile! I’m a dedicated developer focused on building me
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
     </td>
   </tr>
+  <tr> <td><strong>DevOps & Tools</strong></td> <td> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="git"/></a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/93c4f777-986e-4fb4-b93f-76fed8a28542" width="40" height="40" alt="aws"/></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="docker"/></a> </td> </tr>
 
   <tr>
     <td><strong>AI/ML</strong></td>
@@ -61,12 +63,11 @@ Welcome to my GitHub profile! I’m a dedicated developer focused on building me
       <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
     </td>
   </tr>
+  <tr> <td><strong>Design Tools</strong></td> <td> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="figma"/></a> <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://freelogopng.com/images/all_img/1656734719canva-logo-transparent.png" width="40" height="40" alt="canva"/></a> </td> </tr>
 
 </table>
 
-   </td>
-  </tr>
-</table>
+<table> <tr> <th> <p><img align="center" src="https://readmestats.999857.xyz/api?username=shrishtisingh26&show_icons=true&locale=en&theme=dark" alt="shrishtisingh26"/></p> </th> <th> <p><img align="center" src="https://streak-stats.demolab.com/?user=shrishtisingh26&theme=gotham" alt="shrishtisingh26" /></p> </th> </tr> </table> <br>
 
 ## What I’m Working On
 
@@ -97,20 +98,20 @@ Feel free to explore my projects below! 👇
 
 <!-- GSSOC -->
 <h3>🌟 GSSOC'24</h3>
-<img src="1.png" width="80"/>
-<img src="2.png" width="80"/>
-<img src="3.png" width="80"/>
-<img src="4.png" width="80"/>
-<img src="5.png" width="80"/>
-<img src="6.png" width="80"/>
-<img src="7.png" width="80"/>
-<img src="9.png" width="80"/>
+<img src="assests\1.png" width="80"/>
+<img src="assests\2.png" width="80"/>
+<img src="assests\3.png" width="80"/>
+<img src="assests\4.png" width="80"/>
+<img src="assests\5.png" width="80"/>
+<img src="assests\6.png" width="80"/>
+<img src="assests\7.png" width="80"/>
+<img src="assests\9.png" width="80"/>
 
 <br><br>
 
 <!-- Extra -->
 <h3>🚀 Others</h3>
-<img src="Postman White.png" width="80"/>
+<img src="assests\8.png" width="80"/>
 
   </td>
   </tr>
