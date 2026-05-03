@@ -1,22 +1,22 @@
 <img align="center" src="assests/PixelJeff-ezgif.com-resize.gif" alt="banner" width="100%">
 
 <table width="100%" cellspacing="0" cellpadding="0">
-  <tr><!-- LEFT: INTRO -->
+  <tr>
     <td ">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=F7A41D&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Shrishti" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=30&duration=3000&pause=8000&color=F7A41D&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Shrishti" />
 </p>
-<h4>A Pre-Final Year student of CSE (spec. in AIML) </h4>
+<h4> <i> A Pre-Final Year student of CSE (spec. in AIML) </i> </h4>
 <p>
-Welcome to my little corner of GitHub! I enjoy building projects that sit at the intersection of <b> Artificial Intelligence and real-world problem solving</b>. Most of my work revolves around turning ideas into practical solutions sometimes experimental, sometimes chaotic, but always a step forward</p> 
+<i>Welcome to my little corner of GitHub! I enjoy building projects that sit at the intersection of <b> Artificial Intelligence and real-world problem solving</b>. Most of my work revolves around turning ideas into practical solutions sometimes experimental or things I really love.</p> 
 <ul>
   <li>I’m constantly learning, refining, and trying to make technology a bit more meaningful (and a little less intimidating to me ＞﹏＜).</li>
   <li>I like music, playing games and a little bit of sketching as well (*^_^*)</li>
 </ul> 
-<h3>Connect with me</h3> <p> I'm always open to conversations, collaborations, or just geeking out over ideas. Feel free to reach out! All the available links on my profile.
+<h3>Connect with me</h3> <p> I'm always open to conversations, collaborations, or just geeking out over ideas. Feel free to reach out! All the available links on my profile.</i>
 
-</td><!-- RIGHT: SKILLS -->
+</td>
   <td >
 
 <table width="200%" cellspacing="0" cellpadding="0">
@@ -94,16 +94,16 @@ Welcome to my little corner of GitHub! I enjoy building projects that sit at the
 
 
 
-<table> <tr> <th> <p><img align="center" src="https://readmestats.999857.xyz/api?username=shrishtisingh26&show_icons=true&locale=en&theme=dark" alt="shrishtisingh26"/></p> </th> <th> <p><img align="center" src="https://streak-stats.demolab.com/?user=shrishtisingh26&theme=gotham" alt="shrishtisingh26" /></p> </th> </tr> </table> <br>
+<table> <tr> <th> <p><img align="center" src="https://readmestats.999857.xyz/api?username=shrishtisingh26&show_icons=true&locale=en&theme=onedark" alt="shrishtisingh26"/></p> </th> <th> <p><img align="center" src="https://streak-stats.demolab.com/?user=shrishtisingh26&theme=dark" alt="shrishtisingh26" /></p> </th> </tr> </table> <br>
 
-## What I’m currently Working On
+<h2 align="center"> #WIP </h2>
 
-InvisionEd — where PDFs finally talk back
+<b>InvisionEd:</b> <i>where you can chat with your PDFs 
 Cooking up a smart assistant that reads, summarizes, explains, and actually listens (unlike most group project teammates 👀).
-Powered by a mix of NLP magic, voice interactions, and OCR — turning boring documents into conversations.
+Its a mix of NLP, voice interactions, and OCR, turning boring documents into conversations.
 
 Think of it as:
-“Upload your notes → get a mini professor who never gets tired of your questions.”
+“Upload your notes → get a mini professor who never gets tired of your questions. (yes you can really ask doubt from it a 100 times!)”
 
 Current experiments include:
 
@@ -111,14 +111,16 @@ Teaching machines to understand messy scanned notes (yes, even handwriting like 
 Making voice interactions feel less robotic and more human-ish
 Trying to make AI explain concepts better than YouTube at 2× speed
 
-End goal: An AI study buddy that doesn’t judge, forget, or say “revise yourself” 😌
+End goal: An AI study buddy that doesn’t judge, forget, or say “revise yourself” 😌</i>
+
+*Rest there are more projects I am still working, which I will keep updating so feel free to check out my projects😊*
 
 ## Open Source
 [![Contribution Stats](https://readme-contribution-stats.aman-kumar-connect.workers.dev/?type=repos&username=ShrishtiSingh26&limit=16)](https://github.com/amankumarconnect/readme-contribution-stats)
 
 
 
-<h2 align="center">🏆 Achievements & Badges</h2>
+<h2 align="center"> Achievements & Badges</h2>
 
 <table align="center">
   <tr>
@@ -128,9 +130,9 @@ End goal: An AI study buddy that doesn’t judge, forget, or say “revise yours
 <img src="https://github.com/user-attachments/assets/c620104a-0a88-4f40-b578-ecfccbceb48b" width="70"/>
 <img src="https://github.com/user-attachments/assets/8c75470f-3e5b-4ad8-afce-14145b348b17" width="70"/>
 <img src="https://github.com/user-attachments/assets/0084980d-2e1a-4ee4-9b6d-4afb130354cd" width="70"/>
+<br>
 <img src="assests\1.png" width="70"/>
 <img src="assests\2.png" width="70"/>
-<br>
 <img src="assests\3.png" width="70"/>
 <img src="assests\4.png" width="70"/>
 <img src="assests\5.png" width="70"/>
@@ -147,7 +149,11 @@ End goal: An AI study buddy that doesn’t judge, forget, or say “revise yours
 
   
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrishtisingh26&label=Profile%20views&color=0e75b6&style=flat" alt="shrishtisingh26" /> </p>
 
-# Feel free to check out my projects 😊
 
+<h2 align="center"> Github Tropies </h2>
+
+![](https://github-profile-trophy.vercel.app/?username=ShrishtiSingh26&theme=dark_lover&no-frame=true&no-bg=true&margin-w=4)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrishtisingh26&label=Profile%20views&color=f7a41d&style=flat" alt="shrishtisingh26" /> </p>
