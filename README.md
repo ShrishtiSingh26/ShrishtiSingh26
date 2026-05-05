@@ -96,24 +96,9 @@
 
 <table> <tr> <th> <p><img align="center" src="https://readmestats.999857.xyz/api?username=shrishtisingh26&show_icons=true&locale=en&theme=onedark" alt="shrishtisingh26"/></p> </th> <th> <p><img align="center" src="https://streak-stats.demolab.com/?user=shrishtisingh26&theme=dark" alt="shrishtisingh26" /></p> </th> </tr> </table> <br>
 
-<h2 align="center"> #WIP </h2>
 
-<b>InvisionEd:</b> <i>where you can chat with your PDFs 
-Cooking up a smart assistant that reads, summarizes, explains, and actually listens (unlike most group project teammates 👀).
-Its a mix of NLP, voice interactions, and OCR, turning boring documents into conversations.
-
-Think of it as:
-“Upload your notes → get a mini professor who never gets tired of your questions. (yes you can really ask doubt from it a 100 times!)”
-
-Current experiments include:
-
-Teaching machines to understand messy scanned notes (yes, even handwriting like mine 🥲)
-Making voice interactions feel less robotic and more human-ish
-Trying to make AI explain concepts better than YouTube at 2× speed
-
-End goal: An AI study buddy that doesn’t judge, forget, or say “revise yourself” 😌</i>
-
-*Rest there are more projects I am still working, which I will keep updating so feel free to check out my projects😊*
+## *There are projects I am still working on, which I will keep updating so feel free to check out my projects😊*
+<br>
 
 ## Open Source
 [![Contribution Stats](https://readme-contribution-stats.aman-kumar-connect.workers.dev/?type=repos&username=ShrishtiSingh26&limit=16)](https://github.com/amankumarconnect/readme-contribution-stats)
