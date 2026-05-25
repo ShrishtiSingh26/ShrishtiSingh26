@@ -94,7 +94,7 @@
 
 
 
-<table> <tr> <th> <p><img align="center" src="https://readmestats.999857.xyz/api?username=shrishtisingh26&show_icons=true&locale=en&theme=onedark" alt="shrishtisingh26"/></p> </th> <th> <p><img align="center" src="https://streak-stats.demolab.com/?user=shrishtisingh26&theme=dark" alt="shrishtisingh26" /></p> </th> </tr> </table> <br>
+<table> <tr> <th> <p><img align="center" src="https://readmestats.999857.xyz/api?username=shrishtisingh26&show_icons=true&locale=en&theme=onedark" alt="shrishtisingh26"/></p> </th> <th> <p><img align="center" src="https://streak-stats.demolab.com/?user=shrishtisingh26&theme=dark" alt="shrishtisingh26" /></p> </th> </tr> </table> <br> 
 
 
 ## *There are projects I am still working on, which I will keep updating so feel free to check out my projects😊*
