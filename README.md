@@ -35,7 +35,7 @@
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD38KsMgEwahtWc_Nfs5ZVktP9dBc36MUZA&s" width="40"/>
       <img src="https://github.com/user-attachments/assets/3cacda28-397b-4361-a50c-e3cb8f2644e7" width="40"/>
       <img src="https://github.com/user-attachments/assets/d59b7574-204e-4267-923a-e1b20fb623f0" width="40"/>
-      <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="40"/>
+      <!-- <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="40"/> -->
     </td>
   </tr>
 
@@ -43,7 +43,7 @@
     <td><strong>Databases</strong></td>
     <td align="right">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+      <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/> -->
       <img src="https://github.com/user-attachments/assets/a822bb0f-a4ab-420e-8e2f-c3d8a1f62775" width="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
     </td>
@@ -70,7 +70,7 @@
   <tr>
     <td><strong>AI/ML</strong></td>
     <td align="right">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+     <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/> -->
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
       <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
       <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
