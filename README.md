@@ -138,7 +138,7 @@
 
 <h2 align="center"> Github Tropies </h2>
 
- ![](https://github-profile-trophy.vercel.app/?username=ShrishtiSingh26&theme=dark_lover&no-frame=true&no-bg=true&margin-w=4) 
+![](https://github-profile-trophy.vercel.app/?username=ShrishtiSingh26&theme=dark_lover&no-frame=true&no-bg=true&margin-w=4) 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrishtisingh26&label=Profile%20views&color=f7a41d&style=flat" alt="shrishtisingh26" /> </p> 
