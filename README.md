@@ -1,11 +1,11 @@
-<img align="center" src="assests/PixelJeff-ezgif.com-resize.gif" alt="banner" width="100%">
+<img align="center" src="assests/download.gif" alt="banner" width="100%">
 
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td ">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&size=30&duration=3000&pause=8000&color=F7A41D&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Shrishti" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=28&duration=3000&pause=8000&color=344FEB&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shrishti" />
 </p>
 <h4> <i> A Pre-Final Year student of CSE (spec. in AIML) </i> </h4>
 <p>
@@ -94,7 +94,7 @@
 
 
 
-<table> <tr> <th> <p><img align="center" src="https://readmestats.999857.xyz/api?username=shrishtisingh26&show_icons=true&locale=en&theme=onedark" alt="shrishtisingh26"/></p> </th> <th> <p><img align="center" src="https://streak-stats.demolab.com/?user=shrishtisingh26&theme=dark" alt="shrishtisingh26" /></p> </th> </tr> </table> <br> 
+<table> <tr> <th> <p><img align="center" src="https://readmestats.999857.xyz/api?username=shrishtisingh26&show_icons=true&locale=en&theme=radical" alt="shrishtisingh26"/></p> </th> <th> <p><img align="center" src="https://streak-stats.demolab.com/?user=shrishtisingh26&theme=radical" alt="shrishtisingh26" /></p> </th> </tr> </table> <br> 
 
 
 ## *There are projects I am still working on, which I will keep updating so feel free to check out my projects😊*
@@ -134,7 +134,7 @@
 
   
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrishtisingh26&label=Profile%20views&color=f7a41d&style=flat" alt="shrishtisingh26" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrishtisingh26&label=Profile%20views&color=5c0655&style=flat" alt="shrishtisingh26" /> </p> 
 
 <!--
 <h2 align="center"> Github Tropies </h2>
