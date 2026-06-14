@@ -97,6 +97,37 @@
 <table> <tr> <th> <p><img align="center" src="https://readmestats.999857.xyz/api?username=shrishtisingh26&show_icons=true&locale=en&theme=radical" alt="shrishtisingh26"/></p> </th> <th> <p><img align="center" src="https://streak-stats.demolab.com/?user=shrishtisingh26&theme=radical" alt="shrishtisingh26" /></p> </th> </tr> </table> <br> 
 
 
+
+
+
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrishtisingh26">
+        <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrishtisingh26&theme=dracula" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td height="20"></td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://github-readme-activity-graph.vercel.app/graph?username=shrishtisingh26">
+        <img width="715" src="https://github-readme-activity-graph.vercel.app/graph?username=shrishtisingh26&theme=dracula" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+
+
+
 ## *There are projects I am still working on, which I will keep updating so feel free to check out my projects😊*
 <br>
 
@@ -115,7 +146,6 @@
 <img src="https://github.com/user-attachments/assets/c620104a-0a88-4f40-b578-ecfccbceb48b" width="70"/>
 <img src="https://github.com/user-attachments/assets/8c75470f-3e5b-4ad8-afce-14145b348b17" width="70"/>
 <img src="https://github.com/user-attachments/assets/0084980d-2e1a-4ee4-9b6d-4afb130354cd" width="70"/>
-<br>
 <img src="assests\1.png" width="70"/>
 <img src="assests\2.png" width="70"/>
 <img src="assests\3.png" width="70"/>
@@ -125,7 +155,32 @@
 <img src="assests\7.png" width="70"/>
 <img src="assests\9.png" width="70"/>
 <img src="assests\8.png" width="70"/>
-<br><br>
+<img width="70" height="70" alt="Screenshot 2026-06-14 175343" src="https://github.com/user-attachments/assets/45195613-1a6c-4b3a-9066-7d002e299f4b" />
+<img width="70" height="70" alt="Screenshot 2026-06-14 175323" src="https://github.com/user-attachments/assets/80672c39-63f9-4ce7-b010-9e7402d079f0" />
+<img width="70" height="70" alt="Screenshot 2026-06-14 175355" src="https://github.com/user-attachments/assets/9ac6de27-fc75-4b5c-bc5b-8558f8615fa7" />
+<img width="70" height="70" alt="Screenshot 2026-06-14 175335" src="https://github.com/user-attachments/assets/45dbb021-07f8-4844-8cb1-dc0c03e3dcd1" />
+<img width="70" height="70" alt="Screenshot 2026-06-14 175423" src="https://github.com/user-attachments/assets/0cd202fd-023b-422b-ba77-796e684ed47f" />
+<img width="70" height="70" alt="Screenshot 2026-06-14 175431" src="https://github.com/user-attachments/assets/3638dce4-2503-47d7-b590-7304ebb64578" />
+<img width="70" height="70" alt="Screenshot 2026-06-14 175435" src="https://github.com/user-attachments/assets/0c5b6596-0a07-4fde-bb94-2b352ce80aad" />
+<img width="70" height="70" alt="Screenshot 2026-06-14 175441" src="https://github.com/user-attachments/assets/07f4ce93-1210-449c-9902-b77dd4b8e822" />
+<img width="70" height="70" alt="Screenshot 2026-06-14 175928" src="https://github.com/user-attachments/assets/db5c5320-2a15-4c7b-8d2d-1f21bb047755" />
+<img width="70" height="70" alt="Screenshot 2026-06-14 175932" src="https://github.com/user-attachments/assets/edbbe0c7-2844-4975-bec8-0bccb0b35212" />
+<img wwidth="70" height="70" alt="Screenshot 2026-06-14 175945" src="https://github.com/user-attachments/assets/7a62caaf-572e-4e45-96f5-97bfc55027d0" />
+<img width="70" height="70" alt="Screenshot 2026-06-14 175950" src="https://github.com/user-attachments/assets/eb87778c-720f-433f-94b4-347ec5374542" />
+<img width="70" height="70" alt="Screenshot 2026-06-14 175955" src="https://github.com/user-attachments/assets/2ed7d1d8-c2b8-4518-bb92-68728638334d" />
+<img width="70" height="70" alt="Screenshot 2026-06-14 180000" src="https://github.com/user-attachments/assets/3be2f976-8344-428b-a217-7e3a7c4afa21" />
+<img width="70" height="70" alt="Screenshot 2026-06-14 180005" src="https://github.com/user-attachments/assets/1d6c10cf-f0dc-464f-af40-605e0f4bccde" />
+<img width="70" height="70" alt="Screenshot 2026-06-14 180011" src="https://github.com/user-attachments/assets/25c99893-500e-4f99-8986-f7b0535beba3" />
+<img width="70" height="70" alt="Screenshot 2026-06-14 180017" src="https://github.com/user-attachments/assets/a4e7f67b-3180-4e39-aff2-e1dab2531c84" />
+<img width="70" height="70" alt="Screenshot 2026-06-14 180034" src="https://github.com/user-attachments/assets/957a71f4-0fef-404a-9e0a-e60c222f16bc" />
+<img width="70" height="70" alt="Screenshot 2026-06-14 180039" src="https://github.com/user-attachments/assets/2018106b-591b-4fd2-b682-c32a32f9ce9a" />
+<img width="70" height="70" alt="Screenshot 2026-06-14 180043" src="https://github.com/user-attachments/assets/ad739824-2a1b-4de1-ac2f-4d073899f62a" />
+<img width="70" height="70" alt="Screenshot 2026-06-14 180049" src="https://github.com/user-attachments/assets/027e003c-f861-405b-a697-3b079fb712eb" />
+<img width="70" height="70" alt="Screenshot 2026-06-14 180054" src="https://github.com/user-attachments/assets/423d9a10-b6ab-448f-94c9-b2e17ae3c64c" />
+<img width="70" height="70" alt="Screenshot 2026-06-14 180100" src="https://github.com/user-attachments/assets/932a60fe-c67d-4f77-b264-7216d5fde7b9" />
+
+
+<br>
 
 
   </td>
@@ -136,14 +191,9 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrishtisingh26&label=Profile%20views&color=5c0655&style=flat" alt="shrishtisingh26" /> </p> 
 
+
+
 <!--
-<h2 align="center"> Github Tropies </h2>
-
-![](https://github-profile-trophy.vercel.app/?username=ShrishtiSingh26&theme=dark_lover&no-frame=true&no-bg=true&margin-w=4) 
-
-
-
-
 
 <div align="center">
 	<table>
