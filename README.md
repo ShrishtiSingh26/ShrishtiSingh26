@@ -189,6 +189,11 @@
 
   
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<a href="https://github-trophies.vercel.app/?username=shrishtisingh26" target="_blank">
+  <img src="https://github-trophies.vercel.app/?username=shrishtisingh26&theme=radical&margin-w=4&margin-h=4">
+</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrishtisingh26&label=Profile%20views&color=5c0655&style=flat" alt="shrishtisingh26" /> </p> 
 
 
