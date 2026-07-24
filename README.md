@@ -102,17 +102,8 @@
 
 
 <table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrishtisingh26">
-        <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shrishtisingh26&theme=dracula" />
-      </a>
-    </td>
-  </tr>
 
-  <tr>
-    <td height="20"></td>
-  </tr>
+
 
   <tr>
     <td align="center">
