@@ -94,27 +94,8 @@
 
 
 
-<table> <tr> <th> <p><img align="center" src="https://readmestats.999857.xyz/api?username=shrishtisingh26&show_icons=true&locale=en&theme=radical" alt="shrishtisingh26"/></p> </th> <th> <p><img align="center" src="https://streak-stats.demolab.com/?user=shrishtisingh26&theme=radical" alt="shrishtisingh26" /></p> </th> </tr> </table> <br> 
 
 
-
-
-
-
-<table align="center">
-
-
-
-  <tr>
-    <td align="center">
-      <a href="https://github-readme-activity-graph.vercel.app/graph?username=shrishtisingh26">
-        <img width="715" src="https://github-readme-activity-graph.vercel.app/graph?username=shrishtisingh26&theme=dracula" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
 
 
 
@@ -125,7 +106,18 @@
 ## Open Source
 [![Contribution Stats](https://readme-contribution-stats.aman-kumar-connect.workers.dev/?type=repos&username=ShrishtiSingh26&limit=16)](https://github.com/amankumarconnect/readme-contribution-stats)
 
+<br>
 
+<table>
+  <tr>
+    <th>
+      <p><img align="center" src="https://readmestats.999857.xyz/api?username=shrishtisingh26&show_icons=true&locale=en&theme=radical" alt="shrishtisingh26"/></p>
+    </th>
+    <th>
+      <p><img align="center" src="https://streak-stats.demolab.com/?user=Shrishtisingh26&theme=radical" alt="shrishtisingh26" /></p>
+    </th>
+  </tr>
+</table>
 
 <h2 align="center"> Achievements & Badges</h2>
 
@@ -178,13 +170,7 @@
   </tr>
 </table>
 
-  
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://github-trophies.vercel.app/?username=shrishtisingh26" target="_blank">
-  <img src="https://github-trophies.vercel.app/?username=shrishtisingh26&theme=radical&margin-w=4&margin-h=4">
-</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrishtisingh26&label=Profile%20views&color=5c0655&style=flat" alt="shrishtisingh26" /> </p> 
 
 
