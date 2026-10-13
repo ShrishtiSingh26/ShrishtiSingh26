@@ -104,7 +104,7 @@
 <br>
 
 ## Open Source
-[![Contribution Stats](https://readme-contribution-stats.aman-kumar-connect.workers.dev/?type=repos&username=ShrishtiSingh26&limit=16)](https://github.com/amankumarconnect/readme-contribution-stats)
+[![Contribution Stats](https://readme-contribution-stats.aman-kumar-connect.workers.dev/?type=repos&username=ShrishtiSingh26&limit=10)](https://github.com/ShrishtiSingh26?tab=repositories)
 
 <br>
 
